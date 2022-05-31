@@ -78,7 +78,7 @@ def get_all_words(cleaned_tokens_list):
             yield token
 
 
-def get_tweets_for_model(cleaned_tokens_list):
+def get_words_for_model(cleaned_tokens_list):
     """
 
     :param cleaned_tokens_list:
